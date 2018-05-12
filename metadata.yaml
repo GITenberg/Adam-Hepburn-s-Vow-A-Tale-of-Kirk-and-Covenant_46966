@@ -1,4 +1,8 @@
 _repo: Adam-Hepburn-s-Vow-A-Tale-of-Kirk-and-Covenant_46966
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46966-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Swan, Annie S. (Annie Shepherd)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4770
     wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46966#Adam-Hepburn-s-Vow-A-Tale-of-Kirk-and-Covenant
 gutenberg_issued: '2014-09-25'
 gutenberg_type: Text
 identifiers:
